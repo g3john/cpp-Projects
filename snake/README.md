@@ -1,4 +1,5 @@
-Use WASD to move\n
-Press q to quit\n
+Use WASD to move
+
+Press q to quit
 
 Windows 64bit
