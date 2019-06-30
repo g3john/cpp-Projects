@@ -1,2 +1,2 @@
-# cpp-Projects
-C++
+# C++ Projects
+Simple games using C++
